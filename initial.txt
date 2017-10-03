@@ -2,4 +2,62 @@ Brain baby.exe
 
 	-brains spawn more brains
 
-	-completes levels to get brain juice to MAKE MORE BRAINS
+	-completes levels to get brain juice to MAKE MORE BRAINs
+	
+	-8bit theme (art, music, etc.)
+
+	levels:
+	
+		flat platform, brain juice falling from the skies, zombies coming from either side,
+		
+		trying to catch the brain juice,
+
+		with each drop, brain gets bigger,
+		
+		zombie bite reduces brain size by one,
+
+		win when brain is whole screen?
+
+		lose when zombies eat all of your brain
+
+		in early levels:
+
+				no zombies, just trying to grow brain, plant sapling
+		
+		in middle levels:
+
+				bring out the zombies
+
+		in later levels:
+
+				introduce brain poison (social commentary?) -> brain poison
+
+				falls from sky, now you have to avoid poison. poison poisons you
+
+				and paralyzes you so zombies can EAT YOUR BRAINS.
+
+		in final levels:
+
+				brain is slow, grows less, gray, unwinnable last level, some sort of final sequence,
+				tree is fully grown
+
+
+	music:
+
+		starts peaceful at early levels, slowly gets more full, darker
+
+	art:
+		brain starts out pink and lively, ends old and gray
+		
+		zombies should be gray
+
+		
+	~social commentary~
+
+		brain represents you:
+				
+				starts out youthful, just trying to grow brain(learn),
+				later in life zombies start attacking you to inhibit growth(like people
+				trying to keep you down), later in life brain starts to get poisoned
+				(your knowledge starts getting poisoned), at end of game, brain is slow
+				and old.		
